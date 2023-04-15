@@ -1,2 +1,3 @@
 Aquest és el segon arxiu de la prova.
 Introduïm un canvi a l'arxiu...
+Després de fer el primer commit, introduïm un segon canvi.
